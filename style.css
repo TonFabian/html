@@ -3,6 +3,7 @@ body {
 
   text-align: center;
   margin: 0;
+  background-color: black;
 }
 
 #hero {
@@ -20,6 +21,7 @@ h1 {
   line-height: 56px;
   font-weight: normal;
   margin-bottom: 32px;
+  color: blueviolet;
 }
 
 h1 span {
@@ -33,7 +35,7 @@ a {
 
 p,
 #footer {
-  color: #7d7987;
+  color: blueviolet;
   font-size: 14px;
   line-height: 28px;
 }
